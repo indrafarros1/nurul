@@ -90,8 +90,8 @@ export default function FinalSurprise() {
               </p>
 
               <p>
-                Oh iya, semoga target kesehatanmu tahun ini tercapai ya! 
-                <span className="text-pink-200 font-medium"> Nggak sabar pengen lihat kamu makin fresh dan glowing!</span> 😄✨
+                Oh iya, semoga program dietnya sukses ya! 
+                <span className="text-pink-200 font-medium"> Nggak sabar pengen lihat hasilnya nanti!</span> 😄✨
                 Semangat, pasti bisa!
               </p>
 
@@ -137,8 +137,8 @@ export default function FinalSurprise() {
               <p className="text-white text-xs">Semoga sukses dalam karir</p>
             </div>
             <div className="glass-card p-4 rounded-xl text-center col-span-2">
-              <div className="text-2xl mb-1">🏃‍♀️</div>
-              <p className="text-white text-xs">Semoga makin sehat, fit, dan glowing! ✨</p>
+              <div className="text-2xl mb-1">💪</div>
+              <p className="text-white text-xs">Semoga dietnya lancar & sukses! 🏃‍♀️✨</p>
             </div>
           </div>
         </div>
