@@ -35,7 +35,7 @@ export default function PhotoFrame() {
           <img
             src="/nurul.jpg"
             alt="Nurul Barokah"
-            className="w-full h-full object-cover scale-75"
+            className="w-full h-full object-cover"
           />
         </div>
 
