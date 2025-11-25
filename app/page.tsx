@@ -114,7 +114,7 @@ export default function Home() {
               Made with ❤️ specially for Nurul Barokah
             </p>
             <p className="text-xs text-white/40 mt-1">
-              25 November 2025
+              26 November 2025
             </p>
           </div>
         </footer>
