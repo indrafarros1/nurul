@@ -64,11 +64,6 @@ export default function Home() {
             </div>
           </div>
 
-          {/* Scroll indicator */}
-          <div className="absolute bottom-6 text-white/70 text-center animate-bounce-slow">
-            <p className="text-xs mb-1">Scroll ke bawah</p>
-            <span className="text-xl">👇</span>
-          </div>
         </section>
 
         {/* Countdown Section - Usia */}
