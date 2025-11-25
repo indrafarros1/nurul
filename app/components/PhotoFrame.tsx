@@ -31,11 +31,11 @@ export default function PhotoFrame() {
 
         {/* Photo container */}
         <div className="absolute inset-1 rounded-full overflow-hidden border-4 border-white shadow-xl">
-          {/* Placeholder image - wanita dengan ilustrasi */}
+          {/* Foto Nurul */}
           <img
-            src="https://api.dicebear.com/7.x/lorelei/svg?seed=NurulBarokah&backgroundColor=ffdfbf&hair=long16&earrings=variant01&mouth=happy"
+            src="/nurul.jpg"
             alt="Nurul Barokah"
-            className="w-full h-full object-cover bg-gradient-to-br from-pink-200 to-purple-200"
+            className="w-full h-full object-cover"
           />
         </div>
 
