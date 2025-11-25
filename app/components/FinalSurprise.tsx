@@ -86,9 +86,13 @@ export default function FinalSurprise() {
                 Di usia 25 ini, semoga semua impianmu mulai terwujud satu per satu. 
                 Semoga kamu selalu dikelilingi oleh orang-orang yang peduli 
                 dengan tulus. Semoga setiap langkahmu dipenuhi keberkahan dan 
-                kebahagiaan. Dan... 
-                <span className="text-pink-200 font-medium"> semoga program dietnya sukses ya!</span> 😄💪
-                Pasti bisa!
+                kebahagiaan. 
+              </p>
+
+              <p>
+                Oh iya, semoga target kesehatanmu tahun ini tercapai ya! 
+                <span className="text-pink-200 font-medium"> Nggak sabar pengen lihat kamu makin fresh dan glowing!</span> 😄✨
+                Semangat, pasti bisa!
               </p>
 
               <p>
@@ -133,8 +137,8 @@ export default function FinalSurprise() {
               <p className="text-white text-xs">Semoga sukses dalam karir</p>
             </div>
             <div className="glass-card p-4 rounded-xl text-center col-span-2">
-              <div className="text-2xl mb-1">✨</div>
-              <p className="text-white text-xs">Semoga dietnya lancar & makin glowing! 💪</p>
+              <div className="text-2xl mb-1">🏃‍♀️</div>
+              <p className="text-white text-xs">Semoga makin sehat, fit, dan glowing! ✨</p>
             </div>
           </div>
         </div>
