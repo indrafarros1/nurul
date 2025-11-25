@@ -14,7 +14,7 @@ export default function PhotoFrame() {
     <div className="mb-6">
       <div
         onClick={handleClick}
-        className={`relative mx-auto w-32 h-32 md:w-40 md:h-40 cursor-pointer transition-transform duration-300 ${
+        className={`relative mx-auto w-40 h-40 md:w-52 md:h-52 cursor-pointer transition-transform duration-300 ${
           isClicked ? "scale-110" : "hover:scale-105"
         }`}
       >
